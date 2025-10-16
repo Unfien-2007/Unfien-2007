@@ -6,7 +6,7 @@ I am a Student at Batangas State University.
 
 ## 🚀 About Me
 
--
+-Game Dev enthuiast hoping to publish game while pursuing a software developer position.
 
 ## My Articles
 - 
@@ -17,8 +17,7 @@ I am a Student at Batangas State University.
 
 ## 🌱 Currently Exploring
 
-
- ## 🏆 Achievements
+## 🏆 Achievements
 
 
 
