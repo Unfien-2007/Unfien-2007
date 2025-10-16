@@ -1,9 +1,7 @@
 ## Hi there, my name is jp
 
 I am an aspiring developer, BSIT student at Batangas State University.
-
 ![<Unfien-2007>'s Stats](https://github-readme-stats.vercel.app/api?username=<Unfien-2007>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 <!--
 **Unfien-2007/Unfien-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
