@@ -1,9 +1,32 @@
-## Hi there, my name is jp
+# Hi, I'm JP! 👋
 
-I am an aspiring developer, BSIT student at Batangas State University.
-![<Unfien-2007>'s Stats](https://github-readme-stats.vercel.app/api?username=Unfien-2007&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+I am a Student at Batangas State University.
+
+![Unfien's Stats](https://github-readme-stats.vercel.app/api?username=Unfien-2007&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
+
+-
+
+## My Articles
+- 
+
+
+## Tech Stack
+[![My Skills]
+
+## 🌱 Currently Exploring
+
+
+ ## 🏆 Achievements
+
+
+
+## 📬 Get in Touch
+
+
+
 <!--
-**Unfien-2007/Unfien-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
