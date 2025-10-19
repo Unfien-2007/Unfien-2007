@@ -15,7 +15,9 @@ I am a Student at Batangas State University.
 ## Tech Stack
 [![My Skills]
 
-## 🌱 Currently Exploring
+# 🌱 Currently Exploring
+Godot Game Engine
+WebDev
 
 ## 🏆 Achievements
 
