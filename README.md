@@ -2,22 +2,17 @@
 
 I am a Student at Batangas State University.
 
-![Unfien's Stats](https://github-readme-stats.vercel.app/api?username=Unfien-2007&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
-
--Game Dev enthuiast hoping to publish game while pursuing a software developer position.
+-Studying Web Development
 
 ## My Articles
 - 
 
 
 ## Tech Stack
-[![My Skills]
+
 
 # 🌱 Currently Exploring
-Godot Game Engine
-
 
 WebDev
 
@@ -26,7 +21,7 @@ WebDev
 
 
 ## 📬 Get in Touch
-
+- at Discord- unfien.
 
 
 <!--
