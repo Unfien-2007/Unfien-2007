@@ -3,7 +3,7 @@
 I am a Student at Batangas State University.
 
 ## 🚀 About Me
--Studying Web Development
+-Studying Software development
 
 ## My Articles
 - 
@@ -13,15 +13,14 @@ I am a Student at Batangas State University.
 
 
 # 🌱 Currently Exploring
-
-WebDev
+Python
 
 ## 🏆 Achievements
 
 
-
 ## 📬 Get in Touch
 - at Discord- unfien.
+- intagram - unfien.g
 
 
 <!--
