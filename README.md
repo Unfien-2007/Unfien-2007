@@ -6,7 +6,7 @@ I am a 1st year Student at Batangas State University.
 - currently focusing on school
   
 - upskilling using data camp
-- 
+  
 - Studying Software development at my freetime
 
 # 🌱 Currently Exploring
