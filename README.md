@@ -1,6 +1,6 @@
 # Hi, I'm JP! 👋
 
-I am a 1st year Student at Batangas State University.
+I`m a Student at Batangas State University.
 
 ## 🚀 About Me
 - currently focusing on school
