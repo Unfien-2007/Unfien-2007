@@ -1,0 +1,26 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily at 00:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Sync latest posts into README
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update README
+        # v1 — pinned to a commit SHA for supply-chain safety
+        uses: gautamkrishnar/blog-post-workflow@8fe00f11b147770bd95a8e1c41f4d033c3929b5f
+        with:
+          feed_list: "https://unfien-2007.github.io/feed-pro.xml"
+          max_post_count: 5
+          readme_path: "./README.md"
+          commit_message: "chore(readme): sync latest blog posts"
