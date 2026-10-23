@@ -64,7 +64,7 @@ Docker · self-hosting · homelabs
 ## Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Blog](https://unfien-2007.github.io/posts/My-First-Blog/) - Fri Aug 28 2026 12:00 PM
+- [My First Blog](https://unfien-2007.github.io/posts/My-First-Blog/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
