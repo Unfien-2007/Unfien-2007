@@ -14,8 +14,7 @@ opportunities.
 [About](https://unfien-2007.github.io/about/) ·
 [Projects](https://unfien-2007.github.io/projects/) ·
 [Blog](https://unfien-2007.github.io/archives/) ·
-[RSS](https://unfien-2007.github.io/feed-pro.xml) ·
-[Email](mailto:Unfienproductions@gmail.com) ·
+[Email](Unfienproductions@gmail.com) ·
 [LinkedIn](https://www.linkedin.com/in/john-paul-gonzales-a9b199389)
 
 ---
