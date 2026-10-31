@@ -24,8 +24,6 @@ opportunities.
 - **Deploy and maintain my own site** — Jekyll + Chirpy, GitHub Actions CI/CD,
   GitHub Pages, PWA caching, and analytics
   → [live](https://unfien-2007.github.io) · [code](https://github.com/Unfien-2007/Unfien-2007.github.io)
-- **Tinker with hardware** — simple ESP32/Arduino experiments and a budget desktop build
-  → [Dell Vostro 3671 build log](https://unfien-2007.github.io/projects/dell-vostro-3671/)
 - **Learning Python for data analysis** — coursework and DataCamp; posting what I learn as I go
 
 ## Tech Stack
@@ -39,8 +37,7 @@ opportunities.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
@@ -48,10 +45,11 @@ opportunities.
 
 **Currently learning**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
-Python data analysis (pandas) · Linux administration
+Python data analysis (pandas) · Arduino and ESP32 basics
 
 **Curious about** — reading and watching, not hands-on yet
 
