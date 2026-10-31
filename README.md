@@ -42,6 +42,10 @@ opportunities.
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black)
 
 **Currently learning**
 
@@ -60,6 +64,7 @@ Docker · self-hosting · homelabs
 |:--|:--|:--|
 | **Personal Site** | Jekyll + Chirpy portfolio, deployed and maintained with GitHub Actions; PWA caching and analytics | [Live](https://unfien-2007.github.io) · [Code](https://github.com/Unfien-2007/Unfien-2007.github.io) |
 | **Dell Vostro 3671 Build** | Build log for my first desktop — upgrades, benchmarks, and lessons from a budget office PC | [Read the log](https://unfien-2007.github.io/projects/dell-vostro-3671/) |
+| **Iskolar** | Java 21 + JavaFX scholarship finder with SQLite and a Spring Boot/Neon API deployed on Render — learning project built with AI assistance (in progress) | [Case study](https://unfien-2007.github.io/projects/iskolar-scholarship-app/) · [Code](https://github.com/Unfien-2007/iskolarsql) |
 
 ## Latest Writing
 
