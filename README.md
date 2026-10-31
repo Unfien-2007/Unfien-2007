@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://unfien-2007.github.io/assets/img/social-preview.png" alt="Unfien — BSIT student, deployment, Python and embedded tinkering" width="100%" />
+  <img src="https://unfien-2007.github.io/assets/img/social-preview.png" alt="Unfien — BSIT student, deployment, Python" width="100%" />
 </p>
 
 # John Paul Gonzales
